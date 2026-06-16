@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tilah\\OneDrive\\Desktop\\module4-API\\m4-lab-session1\\m4-lab-session1.csproj",
+      "projectUniqueName": "C:\\Users\\tilah\\OneDrive\\Desktop\\New folder (3)\\module4\\m4-lab-session1.csproj",
       "projectName": "m4-lab-session1",
-      "projectPath": "C:\\Users\\tilah\\OneDrive\\Desktop\\module4-API\\m4-lab-session1\\m4-lab-session1.csproj",
+      "projectPath": "C:\\Users\\tilah\\OneDrive\\Desktop\\New folder (3)\\module4\\m4-lab-session1.csproj",
       "packagesPath": "C:\\Users\\tilah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tilah\\OneDrive\\Desktop\\module4-API\\m4-lab-session1\\obj\\",
+      "outputPath": "C:\\Users\\tilah\\OneDrive\\Desktop\\New folder (3)\\module4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tilah\\AppData\\Roaming\\NuGet\\NuGet.Config"
